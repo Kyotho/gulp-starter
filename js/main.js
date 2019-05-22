@@ -1,0 +1,12 @@
+console.log('jeden');
+console.log('dwa');
+console.log('jeden');
+console.log('dwa');
+console.log('jeden');
+console.log('dwa');
+console.log('jeden');
+console.log('dwa');
+console.log('dwa');
+console.log('dwa');
+console.log('dwa');
+console.log('pedal');

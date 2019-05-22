@@ -1,0 +1,16 @@
+body {
+  color: red;
+  background-color: black; }
+
+.example {
+  display: grid;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background: -webkit-gradient(linear, left top, left bottom, from(white), to(black));
+  background: linear-gradient(to bottom, white, black);
+  -webkit-transform: translateX(300);
+          transform: translateX(300); }
